@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This will be short... 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have a background as a developer mostly in C# but if you go way back also in C++, my frontend skills are limited, hence the quite basic look of this blog... 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+During daytime I'm the CTO of a webb agency called Creuna, after work it's a lot of tinkering with electronics, arduinos and so on.  
+
+All projects will be found on GitHub [github.com/pstigenberg](https://github.com/pstigenberg)
