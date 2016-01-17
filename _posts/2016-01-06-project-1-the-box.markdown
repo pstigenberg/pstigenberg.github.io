@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Project #1 - The Box"
-date:   2016-01-06 21:10:00
+date:   2016-01-17 21:10:00
 categories: projects
 description: My first real project - a box with a magnetic lock controlled by a RFID reader and a permanent electromagnet. New cards can be added by first swiping an Add-card. 
-relative-image-url: /assets/nano200.png
+relative-image-url: /assets/project-1.png
 ---
 
 My first project is a box with a magnetic lock controlled by a RFID reader. 
