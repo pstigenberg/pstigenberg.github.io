@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detailed project description on Hackster.io"
-date:   2016-01-23 16:30
+date:   2016-01-26 16:30
 categories: Misc
 description: No you can watch a much more detailed description about the box project on Hackster.io
 relative-image-url: /assets/post-3-hackster-case-w200.jpg
