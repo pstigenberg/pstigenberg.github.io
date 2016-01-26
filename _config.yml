@@ -6,13 +6,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to my blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://pstigenberg.github.io" # the base hostname & protocol for your site
-#url: "http://localhost:4000" 
-#url: "http://localhost:4000" 
+#url: "http://pstigenberg.github.io" # the base hostname & protocol for your site
+url: "http://localhost:4000" 
 
 twitter_username: pstigenberg
 github_username:  pstigenberg
 linkedin_username: pstigenberg
+hackster_username: pstigenberg
 
 # Build settings
 markdown: kramdown

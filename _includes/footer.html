@@ -16,6 +16,11 @@
             	<a href="http://se.linkedin.com/in/{{ site.linkedin_username }}">me on LinkedIn</a>
           	</li>
           	{% endif %}
+          	{% if site.hackster_username %}
+          	<li class="contact-list-hackster">
+            	<a href="http://hackster.io/{{ site.hackster_username }}">me on Hackster</a>
+          	</li>
+          	{% endif %}
           	<li class="contact-list-rss">
 				<a href="{{ "/feed.xml" | prepend: site.baseurl }}">Get updates via RSS</a>
 			</li>
